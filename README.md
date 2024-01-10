@@ -6,8 +6,7 @@ An App based on React to show current weather details of any place
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contact](#contact)
 
 ## Installation
 
@@ -18,9 +17,27 @@ git clone https://github.com/TST14/WeatherApp.git
 ```
 
 2. Go to Folder
-   `cd .\weather-app\`
 
-3. Run the app
-   `npm start`
+```bash
+   cd .\weather-app\
+```
+
+3. Install Dependencies:
+
+```bash
+   npm install
+```
+
+4. Run the app
+
+```bash
+   npm start
+```
+
+## Usage
 
 ![Alt text](image.png)
+
+## Contact
+
+For inquiries, contact [TANMAY SINGH THAKUR](mailto:thakurtanmaysingh@gmail.com).
